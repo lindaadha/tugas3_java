@@ -1,11 +1,23 @@
-This Repository used to Learn Java Quiz from Sanberncode 
+# TUGAS 3 JAVASCRIPT 
+This Repository used for 3rd learning Java Quiz from Sanberncode 
 
-Tugas 1 
-Membuat program pangkat, untuk menjalankan bisa menggunakan command berikut 
+## Task 1 
+Create a square root program, to run this program you can use the following command:
+```
     node soal1.js 
-dan menginputkan angka 
+```
+And enter numbers,  
+```
     Masukkan Angka: 16
+```
+Noted: The number must be an even number and cannot be a negative number
 
-ketentuan angka harus genap dan bilangan tidak boleh negatif 
-
-Tugas 2 
+## Task 2 
+Create a program to add up the quantity of the product code, to run this program you can use the following command:
+```
+    node soal2.js 
+```
+And enter the Product Code,  
+```
+    Masukkan Kode Produk: FBR00040101
+```

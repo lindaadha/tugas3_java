@@ -37,6 +37,7 @@ let productBin = {
 
 
 let totalQuantity = 0;
+let detectProductCode = false;
 
 const prompt = require('prompt-sync')({sigint: true});
 const productCode = prompt('Masukkan Kode Produk: ');
@@ -46,7 +47,12 @@ for (let i = 0; i < productBin.data.length; i++) {
   
   if (product.productCode === productCode) {
     totalQuantity += product.quantity;
+    detectProductCode = true;
   }
 }
 
-console.log(`Total Quantity untuk Kode Produk ${productCode} adalah: ` + totalQuantity);
+if (detectProductCode) {
+    console.log(`Total Quantity untuk Kode Produk ${productCode} adalah: ` + totalQuantity);
+  } else {
+    console.log("Tidak berhasil: Tidak ada Kode Produk yang sesuai");
+  }
