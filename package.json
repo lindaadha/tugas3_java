@@ -1,0 +1,14 @@
+{
+  "name": "tugas3_java",
+  "version": "1.0.0",
+  "description": "tugas 3 mempelajari Java ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "linda",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
