@@ -12,6 +12,9 @@ And enter numbers,
 ```
 Noted: The number must be an even number and cannot be a negative number
 
+This is the results of this program,
+![alt text](documents/Soal_1.png)
+
 ## Task 2 
 Create a program to add up the quantity of the product code, to run this program you can use the following command:
 ```
@@ -21,3 +24,5 @@ And enter the Product Code,
 ```
     Masukkan Kode Produk: FBR00040101
 ```
+This is the results of this program,
+![alt text](documents/Soal_2.png)
