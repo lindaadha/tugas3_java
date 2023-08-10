@@ -12,7 +12,8 @@ And enter numbers,
 ```
 Noted: The number must be an even number and cannot be a negative number
 
-This is the results of this program,
+This is the results of this program:
+
 ![alt text](documents/Soal_1.png)
 
 ## Task 2 
@@ -24,5 +25,6 @@ And enter the Product Code,
 ```
     Masukkan Kode Produk: FBR00040101
 ```
-This is the results of this program,
+This is the results of this program:
+
 ![alt text](documents/Soal_2.png)
